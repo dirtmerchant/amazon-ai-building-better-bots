@@ -47,7 +47,7 @@ Once you are logged into your AWS account, you will be presented with a list of 
 
 ![Console](./images/console.png)
 
-You may be directed to select at region.  At the time of writing, Lex is only available in the Virginia and Ireland regions.  Choose the region that is the closest to you or the one that the instructor directs.
+You may be directed to select at region.  At the time of writing, Lex is only available in the Virginia, Oregon, and Ireland regions.  Choose the region that is the closest to you or the one that the instructor directs.
 
 ![Region](./images/region.png)
 
